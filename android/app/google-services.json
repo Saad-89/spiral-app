@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398431603129",
+    "project_id": "spiral-clothing-app",
+    "storage_bucket": "spiral-clothing-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398431603129:android:27c43d66429ce149d14e68",
+        "android_client_info": {
+          "package_name": "com.example.spiral_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398431603129-bkqt4njnv9livg3rgagj07t64c2abkr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQlY2fZyiYRJesoGZRcyY2uWWRrYnWqws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398431603129-bkqt4njnv9livg3rgagj07t64c2abkr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
